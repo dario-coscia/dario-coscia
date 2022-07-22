@@ -8,7 +8,8 @@ I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
 
 - 🌱 I’m currently interested in 
   - Deep Learning applications
-  - Bayesian Optimization
+  - Bayesian Modelling
+  - Neural Network Optimization 
   
 - 👀 Give a look at my [**website**](https://dariocoscia.wixsite.com/datascience)
 

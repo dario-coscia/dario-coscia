@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Dario 👋
+
+I'm doing a MSc in Foundations of AI and ML at the University of Trieste.  
+
+- 🔭 I’m doing **research** at the [mathLab](https://mathlab.sissa.it/) @ SISSA
+  - Convolutional Neural Network research 
+  - Constructing deep learning arichitectures for numerical analysis modelling 
+
+- 🌱 I’m currently interested in 
+  - Deep Learning applications
+  - Bayesian Optimization
+  
+- 👀 Give a look at my [**website**](https://dariocoscia.wixsite.com/datascience)
 
 <!--
 **dario-coscia/dario-coscia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

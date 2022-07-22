@@ -2,7 +2,7 @@
 
 I'm doing a MSc in Foundations of AI and ML at the University of Trieste.  
 
-- 🔭 I’m doing **research** at the [mathLab](https://mathlab.sissa.it/) @ SISSA
+- 🔭 I’m doing **research** at [mathLab](https://mathlab.sissa.it/) @ SISSA
   - Convolutional Neural Network research 
   - Constructing deep learning arichitectures for numerical analysis modelling 
 

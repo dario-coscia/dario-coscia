@@ -11,7 +11,7 @@ I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
   - Bayesian Modelling
   - Neural Network Optimization 
   
-- 👀 Give a look at my [**website**](https://dariocoscia.wixsite.com/datascience)
+- 👀 Have a look at my [**website**](https://dariocoscia.wixsite.com/datascience)
 
 <!--
 **dario-coscia/dario-coscia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

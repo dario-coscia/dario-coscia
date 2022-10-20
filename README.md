@@ -7,8 +7,8 @@ I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
   - Constructing deep learning arichitectures for numerical analysis modelling 
 
 - 🌱 I’m currently interested in 
-  - Deep Learning applications
-  - Bayesian Modelling
+  - Deep Learning applications for numerical analysis
+  - Physics Informed Neural Networks
   - Neural Network Optimization 
   
 - 👀 Have a look at my [**website**](https://dariocoscia.wixsite.com/datascience)

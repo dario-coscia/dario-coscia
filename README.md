@@ -3,8 +3,8 @@
 I'm doing a MSc in Foundations of AI and ML at the University of Trieste.  
 
 - 🔭 I’m doing **research** at [mathLab](https://mathlab.sissa.it/) @ SISSA
-  - Physics Informed Neural Networks
-  - Convolutional Neural Network research 
+  - Generative Adversarial Learning
+  - Convolutional Neural Network [research](https://arxiv.org/abs/2210.13416) 
   - Constructing deep learning arichitectures for numerical analysis modelling 
 
 - 🌱 I’m currently interested in 

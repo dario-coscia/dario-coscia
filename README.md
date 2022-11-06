@@ -5,11 +5,11 @@ I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
 - 🔭 I’m doing **research** at [*mathLab*](https://mathlab.sissa.it/) @ SISSA
   - Generative Adversarial Learning
   - Convolutional Neural Network in unstructured domains
-  - Constructing deep learning arichitectures for numerical analysis modelling 
+  - Operator learning 
 
 - 🌱 I’m currently interested in 
-  - Deep Learning applications for numerical analysis
   - Physics Informed Neural Networks
+  - Uncertainty quantification in neural networks
   - Neural Network Optimization 
   
 - 👀 Have a look at my [**website**](https://dariocoscia.wixsite.com/datascience)

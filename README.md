@@ -3,17 +3,15 @@
 I'm doing a MSc in Foundations of AI and ML at the University of Trieste.  
 
 - 🔭 I’m doing **research** at [*mathLab*](https://mathlab.sissa.it/) @ SISSA
-  - Generative Adversarial Learning
-  - Convolutional Neural Network in unstructured domains
-  - Operator learning 
+  - Deep Generative Models for complex system simulations 
+  - Neural Network learning on unstructured domains
+  - Physics Informed Neural Networks
 
 - 🌱 I’m currently interested in 
-  - Physics Informed Neural Networks
-  - Uncertainty quantification in neural networks
-  - Neural Network Optimization 
-  
-- 👀 Have a look at my [**website**](https://dariocoscia.wixsite.com/datascience)
-- 📚 Here my last [**pubblication**](https://arxiv.org/abs/2210.13416) on convolutional trainable filters for unstructured data
+  - Uncertainty Quantification in Neural Networks
+  - Neural Operator learning
+<!--  
+- 📚 Have a look at my [**research**](https://scholar.google.com/citations?user=X6wlDE8AAAAJ&hl=en&oi=sra) 
 
 <!--
 **dario-coscia/dario-coscia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

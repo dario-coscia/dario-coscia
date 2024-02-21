@@ -1,6 +1,6 @@
 ### Hi there, I'm Dario 👋
 
-I'm doing a MSc in Foundations of AI and ML at the University of Trieste.  
+I’m a Ph.D. student at the International School for Advanced Studies and the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on Uncertainty Quantification for Neural PDE Solvers
 
 - 🔭 I’m doing **research** at [*mathLab*](https://mathlab.sissa.it/) @ SISSA
   - Deep Generative Models for complex system simulations 

@@ -2,14 +2,14 @@
 
 I’m a Ph.D. student at the International School for Advanced Studies and the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on Uncertainty Quantification for Neural PDE Solvers
 
-- 🔭 I’m doing **research** at [*mathLab*](https://mathlab.sissa.it/) @ SISSA
+- 🔭 I’m doing **research**
   - Deep Generative Models for complex system simulations 
-  - Neural Network learning on unstructured domains
+  - Uncertainty Quantification in Neural Operators
   - Physics Informed Neural Networks
 
 - 🌱 I’m currently interested in 
-  - Uncertainty Quantification in Neural Networks
-  - Neural Operator learning
+  - Causal Inference and Applications to Simulations
+  - Generative Models for Physical Applications 
 <!--  
 - 📚 Have a look at my [**research**](https://scholar.google.com/citations?user=X6wlDE8AAAAJ&hl=en&oi=sra) 
 

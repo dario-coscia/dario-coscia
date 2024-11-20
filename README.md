@@ -4,12 +4,12 @@ I’m a Ph.D. student at the International School for Advanced Studies and the U
 
 - 🔭 I’m doing **research**
   - Deep Generative Models for complex system simulations 
-  - Uncertainty Quantification in Neural Operators
+  - Uncertainty Quantification and Bayesian Deep Learning
   - Physics Informed Neural Networks
 
 - 🌱 I’m currently interested in 
-  - Causal Inference and Applications to Simulations
-  - Generative Models for Physical Applications 
+  - Latent Variable Models 
+  - Reinforcment Learninf for de-novo drug design
 <!--  
 - 📚 Have a look at my [**research**](https://scholar.google.com/citations?user=X6wlDE8AAAAJ&hl=en&oi=sra) 
 

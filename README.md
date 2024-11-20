@@ -9,7 +9,7 @@ I’m a Ph.D. student at the International School for Advanced Studies and the U
 
 - 🌱 I’m currently interested in 
   - Latent Variable Models 
-  - Reinforcment Learninf for de-novo drug design
+  - Reinforcment Learning for de-novo drug design
 <!--  
 - 📚 Have a look at my [**research**](https://scholar.google.com/citations?user=X6wlDE8AAAAJ&hl=en&oi=sra) 
 

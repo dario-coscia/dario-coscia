@@ -3,13 +3,13 @@
 I’m a Ph.D. student at the International School for Advanced Studies and the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on Uncertainty Quantification for Neural PDE Solvers
 
 - 🔭 I’m doing **research**
-  - Deep Generative Models for complex system simulations 
   - Uncertainty Quantification and Bayesian Deep Learning
   - Physics Informed Neural Networks
+  - Deep Generative Models for Scientific Machine Learning
 
 - 🌱 I’m currently interested in 
-  - Latent Variable Models 
-  - Reinforcment Learning for de-novo drug design
+  - Sequence modelling
+  - Reinforcement Learning and Path Integral Control
 <!--  
 - 📚 Have a look at my [**research**](https://scholar.google.com/citations?user=X6wlDE8AAAAJ&hl=en&oi=sra) 
 

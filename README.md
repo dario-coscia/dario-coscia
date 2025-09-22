@@ -1,6 +1,6 @@
 ### Hi there, I'm Dario 👋
 
-I’m a Ph.D. student at the International School for Advanced Studies and the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on Uncertainty Quantification for Neural PDE Solvers
+I’m a Ph.D. student at the International School for Advanced Studies, in collaboration with the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on Uncertainty Quantification for Neural PDE Solvers
 
 - 🔭 I’m doing **research**
   - Uncertainty Quantification and Bayesian Deep Learning

@@ -1,15 +1,9 @@
 ### Hi there, I'm Dario 👋
 
-I’m a Ph.D. student at the International School for Advanced Studies, in collaboration with the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on Uncertainty Quantification for Neural PDE Solvers
+I’m a Member of Technical Staff at [CuspAI](https://cusp.ai/), working on AI powered materials discovery. 
 
-- 🔭 I’m doing **research**
-  - Uncertainty Quantification and Bayesian Deep Learning
-  - Physics Informed Neural Networks
-  - Deep Generative Models for Scientific Machine Learning
+📚 Previously, I was a Ph.D. student at the International School for Advanced Studies, in collaboration with the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on [Generative Artificial Intelligence and Uncertainty Quantification for Scientific Discovery](https://iris.sissa.it/handle/20.500.11767/153272).
 
-- 🌱 I’m currently interested in 
-  - Sequence modelling
-  - Reinforcement Learning and Path Integral Control
 <!--  
 - 📚 Have a look at my [**research**](https://scholar.google.com/citations?user=X6wlDE8AAAAJ&hl=en&oi=sra) 
 

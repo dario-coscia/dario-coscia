@@ -1,6 +1,6 @@
 ### Hi there, I'm Dario 👋
 
-I’m a Member of Technical Staff at [CuspAI](https://cusp.ai/), working on AI powered materials discovery. 
+I’m Member of Technical Staff at [CuspAI](https://cusp.ai/), working on AI powered materials discovery. 
 
 📚 Previously, I was a Ph.D. student at the International School for Advanced Studies, in collaboration with the University of Amsterdam, supervised by Prof. Gianluigi Rozza and Prof. Max Welling on [Generative Artificial Intelligence and Uncertainty Quantification for Scientific Discovery](https://iris.sissa.it/handle/20.500.11767/153272).
 
